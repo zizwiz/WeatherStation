@@ -1,0 +1,6 @@
+[submodule "Arduino_Ambient-sound-and-light"]
+	path = Arduino_Ambient-sound-and-light
+	url = https://github.com/zizwiz/Arduino_Ambient-sound-and-light
+[submodule "Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity"]
+	path = Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity
+	url = https://github.com/zizwiz/Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity
